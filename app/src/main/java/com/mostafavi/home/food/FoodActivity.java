@@ -61,6 +61,7 @@ public class FoodActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         ObjectAnimator.ofFloat(tvDescription, "translationY", 0, Utils.getHeightScreen(this)).setDuration(500).start();
+        fab.setVisibility(View.GONE);
         super.onBackPressed();
     }
 
@@ -93,7 +94,6 @@ public class FoodActivity extends AppCompatActivity {
             }
         });
         ObjectAnimator.ofFloat(tvDescription, "translationY", Utils.getHeightScreen(this), 0).setDuration(500).start();
-
     }
 
     private void initBundle() {

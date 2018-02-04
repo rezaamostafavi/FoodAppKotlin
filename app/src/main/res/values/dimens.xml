@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeMarginSize">16dp</dimen>
+    <dimen name="bigMarginSize">12dp</dimen>
+    <dimen name="normalMarginSize">8dp</dimen>
+    <dimen name="smallMarginSize">4dp</dimen>
+    <dimen name="normalImageSize">50dp</dimen>
+    <dimen name="thinTextSize">12sp</dimen>
+    <dimen name="microTextSize">10sp</dimen>
+    <dimen name="normalTextSize">16sp</dimen>
+    <dimen name="smallTextSize">14sp</dimen>
+    <dimen name="statusBarSize">24dp</dimen>
+    <dimen name="xLargeMarginSize">24dp</dimen>
+    <dimen name="foodHeaderImage">250dp</dimen>
+    <dimen name="foodHeaderSize">280dp</dimen>
+    <dimen name="foodToolbarSize">80dp</dimen>
+    <integer name="gridColumns">1</integer>
+</resources>

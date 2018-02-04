@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c9d969</color>
+    <color name="colorPrimaryDark">#94a145</color>
+    <color name="colorAccent">#c9d969</color>
+    <color name="colorTransparentStatusBar">#25000000</color>
+
+    <color name="darkGrayText">#54616e</color>
+    <color name="medGrayText">#939eab</color>
+    <color name="lightGrayText">#b9c2cc</color>
+    <color name="formBackground">#ececec</color>
+
+</resources>

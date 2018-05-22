@@ -1,5 +1,5 @@
 # FoodApp
-This is a sample application which is designed based on [**"Daily 01 Food app practice" by Z haha**](https://dribbble.com/shots/3600720-Daily-01-Food-app-practice)
+This is a sample application write with Kotlin which is designed based on [**"Daily 01 Food app practice" by Z haha**](https://dribbble.com/shots/3600720-Daily-01-Food-app-practice)
 ## App description
 In order to create this app we have used:
   * Collapsing Toolbar Layout.
